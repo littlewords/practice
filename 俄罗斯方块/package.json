@@ -1,0 +1,12 @@
+
+{
+	"name": "小猪方块",
+	"title":"小猪方块",
+	"main": "index.html",
+	"window": {
+        "frame": true,
+        "toolbar": false,
+        "width": 500,
+        "height": 505
+    }
+}
