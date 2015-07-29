@@ -1,0 +1,12 @@
+
+{
+	"name": "双龙戏珠",
+	"title":"双龙戏珠",
+	"main": "index.html",
+	"window": {
+        "frame": true,
+        "toolbar": false,
+        "width": 730,
+        "height": 630
+    }
+}
